@@ -1,4 +1,4 @@
-
+#  How to check object type in python
 var = 'Class'
 match var:
     case str():
